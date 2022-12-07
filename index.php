@@ -11,7 +11,7 @@
 
 
 <div class="container">
-<h1>PHP & MongoDB - CRUD Operation Tutorials - ItSolutionStuff.com</h1>
+<h1>PHP & MongoDB - CRUD Operation Tutorials</h1>
 
 
 <a href="create.php" class="btn btn-success">Add Book</a>
